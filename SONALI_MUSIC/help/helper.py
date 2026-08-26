@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
     HELP_03 = '''```
@@ -50,14 +50,14 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @Adamusiicbot @II_JPEXO_II I love You 😘
+ єxᴧϻᴘʟє : @jp_network @jp_network I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot) **
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network) **
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -83,7 +83,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Waste baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot) **
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network) **
 '''
 
     HELP_06 = '''```
@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
 ❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ᴛᴏxɪᴄ + ᴋɪᴛᴛᴜ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -143,7 +143,7 @@ class Helper(object):
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -172,7 +172,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -285,7 +285,7 @@ class Helper(object):
 ❍ /unbanall ➠ ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs
 ❍ /unpinall ➠ ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -295,7 +295,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -307,7 +307,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -318,7 +318,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -333,7 +333,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -344,21 +344,21 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞˼ 💞𓆪](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
     HELP_23 = '''```
 ❖ sᴧηɢ ϻᴧᴛᴧ ᴄσϻϻᴧηᴅ ❖```
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞˼ 💞](https://t.me/KITTUU_UPDATES)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
     HELP_24 = '''```
 ❖ ᴛʀᴧηsʟᴧᴛєs ❖```
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -367,9 +367,9 @@ class Helper(object):
 **❍ /git ➠ ғɪηᴅ ʀєᴘᴏ ɢɪᴛ ᴜsєʀηᴧϻє
 ❍ /allrepo ➠ sєє ᴧʟʟ ʀєᴘᴏ ᴛʜʀσᴜɢʜ ɢɪᴛ ᴜsєʀηᴧϻє**
 
-`єxᴧϻᴘʟє : /git TEAM-ISHA`
+`єxᴧϻᴘʟє : /git WASTE`
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
 
 
@@ -380,7 +380,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,32 +397,32 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)
+❍ ᴄσηᴛᴧᴄᴛ - [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot) : ᴧʟɪᴠє 
+╭⎋ [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot) : ᴧʟɪᴠє 
+╭⎋ [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot) : ᴧʟɪᴠє 
+╭⎋ [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/jp_network)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 16 Dec 2025 
 ─────────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [˹ ⋏ ᑯ ᥲ ┋ 𐌼 ᥙ s ɪ ᴄ ✞](https://t.me/Adamusiicbot)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -437,10 +437,10 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ ˹ ⋏ ᑯ ᥲ.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹˹ ⋏ ᑯ ᥲ Uρᑯᥲᴛᥱs˼ 💞](https://t.me/jp_network)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹˹ ⋏ ᑯ ᥲ Sᥙρρ᥆𝗋ᴛ](https://t.me/WasteSupport)
-❖ ʙᴏᴛ σᴡηєʀ ➥ [𝐖ᴀsᴛᴇ🇺🇲](https://t.me/ii_jpexo_ii)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://t.me/jp_network)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)
+❖ ʙᴏᴛ σᴡηєʀ ➥ [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
    ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!!
