@@ -50,7 +50,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @jp_network I love You 😘
+ єxᴧϻᴘʟє : @jp_network @jp_network I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
@@ -367,7 +367,7 @@ class Helper(object):
 **❍ /git ➠ ғɪηᴅ ʀєᴘᴏ ɢɪᴛ ᴜsєʀηᴧϻє
 ❍ /allrepo ➠ sєє ᴧʟʟ ʀєᴘᴏ ᴛʜʀσᴜɢʜ ɢɪᴛ ᴜsєʀηᴧϻє**
 
-`єxᴧϻᴘʟє : /git wasteBotz`
+`єxᴧϻᴘʟє : /git WASTE`
 
 **❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [Ꮤαѕтᥱ ⴕ](https://t.me/jp_network)**
 '''
